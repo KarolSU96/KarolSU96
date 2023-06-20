@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @VibratingDonut
+- 👋 Hi, I’m Karol
 - 👀 I’m interested in books, music and learning new things.
 - 🌱 Currently learning web dev in Code Institute.
