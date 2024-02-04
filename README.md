@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Karol
 
 ## 👀 About Me
-- 📚 I'm interested in books, music, and learning new things.
+- 📚 Books, music, and tech enthusiast.
 - 🌱 Currently learning web development at Code Institute.
 - 🎸 I enjoy playing the guitar in my free time.
-- 💡 I'm passionate about exploring new technologies.
+- 💡 Passionate about new technologies.
 
 ## 📚 Latest Projects
 - 🔗 [To-Do List](https://github.com/KarolSU96/PP2) - Minimalistic ToDo-List website.
