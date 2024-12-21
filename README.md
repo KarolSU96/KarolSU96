@@ -6,11 +6,9 @@
 - 🎸 I enjoy playing the guitar in my free time.
 - 💡 Passionate about new technologies.
 
-  Recently I started to play around with Next.js. The Golang really speaks to me and would like to learn it in the future! 
-
-
 
 ## 📚 Latest Projects
+- [How to Christmas](https://github.com/KelvinC181/How-To-Christmas) - Hackathon Christmas Website. Project where I had a chance to cooperate with other talented developers.  
 - 🔗 [To-Do List](https://github.com/KarolSU96/PP2) - Minimalistic ToDo-List website.
 - 🔗 [Battleships](https://github.com/KarolSU96/PP3) - Battleships terminal game.
 - 🔗 [Finance Tracker](https://github.com/KarolSU96/finance-tracker) - Finance tracker- my Full Stack Django Project.
