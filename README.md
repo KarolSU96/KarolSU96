@@ -16,4 +16,5 @@
   Backend: [Backend](https://github.com/KarolSU96/focus-nest-drf-api)
   Frontend: [FrontEnd](https://github.com/KarolSU96/focus-nest)
 
+Right now I am working on making the [How to Christmas](https://github.com/KarolSU96/christmas-backend) a full stack app. Django backend => frontend with React comming soon. 
 Thanks for stopping by. Have a wonderful day! :) 
